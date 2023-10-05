@@ -1,0 +1,7 @@
+03-10-2023 19:34:26 - [31merror[39m: [31mNão foi possivel Conectar[39m
+03-10-2023 19:34:26 - [31merror[39m: [31mERROR: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+03-10-2023 19:35:28 - [31merror[39m: [31mNão foi possivel Conectar[39m
+03-10-2023 22:15:48 - [31merror[39m: [31mErro no Sistema: Cast to ObjectId failed for value "651cba32e731ca9513e2537" (type string) at path "_id" for model "Movie"[39m
+03-10-2023 22:16:19 - [31merror[39m: [31mErro no Sistema: Cast to ObjectId failed for value "651cba32e731ca9513e2537" (type string) at path "_id" for model "Movie"[39m
+03-10-2023 22:16:34 - [31merror[39m: [31mErro no Sistema: Cast to ObjectId failed for value "651cba32e731ca9513e2537" (type string) at path "_id" for model "Movie"[39m
+05-10-2023 18:53:50 - [31merror[39m: [31mNão foi possivel Conectar[39m
